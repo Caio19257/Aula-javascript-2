@@ -7,7 +7,7 @@
         alert("Seu curso é " + curso);
         let cidade = prompt("digite sua cidade:");
         alert("Você mora em " + cidade)
-        let hobby = prompt("digite seu");
+        let hobby = prompt("digite seu hobby:");
         alert("Seu hobby é " + hobby);
         alert("cadastro finalizado com sucesso!")
         
