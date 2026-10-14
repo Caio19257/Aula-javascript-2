@@ -1,4 +1,4 @@
-    functio informação() {
+    function informação() {
         let nome = prompt("digite seu nome:");
         alert("Bem vindo" + nome);
         let idade = prompt("digite sua idade:");
